@@ -1,0 +1,117 @@
+.container1{
+    border:solid;
+    height: 595px;
+    background-color: rgba(211,211,211,.2);
+    width: 700px;
+    margin-left:20px;
+    border-radius: 10px;
+    border:none;
+}
+  
+.container2{
+    height: 600px;
+    width: 650px;
+    margin-left:-50px;
+}
+.img-style{
+    height: 800px;
+    width: 100%;
+    position:absolute;
+    left:0;
+    bottom:0;
+    top:0;
+    right:0;
+    filter:blur();
+}
+.map-icon{
+    position:static;
+    height: 600px;
+    width:650px;
+}
+.text-style{
+    font-size:25px;
+    font-weight: bold;
+    color:white;
+    padding-top:15px;
+    padding-left:20px;
+    font-family: arial;
+    padding-bottom:15px;
+}
+.icon1{
+    background:rgba(211, 211, 211,.5);
+    height:150px;
+    margin-top:10px;
+    width:600px;
+    margin-left:30px;
+    border-radius: 10px;
+    position:absolute;
+}
+.icon2{
+    background:rgba(211, 211, 211,.5);
+    height:150px;
+    margin-top:10px;
+    width:600px;
+    margin-left:30px;
+    border-radius: 10px;
+    position:absolute;
+}
+.icon3{
+    background:rgba(211, 211, 211,.5);
+    height:150px;
+    margin-top:10px; 
+    width:600px;
+    margin-left:30px;
+    border-radius: 10px;
+    position:absolute;
+}
+.star-style{
+font-size:20px;
+color:gold;
+padding-left:250px;
+
+}
+.text-tower{
+    text-align: center;
+    font-weight:bold;
+    color:white;
+    padding-top:20px;
+    font-size:20px;
+}
+.Detail{
+    text-align: center;
+    padding-left:70px;
+    font-size:15px;
+    color:lightgrey;
+}
+.detail{
+    text-align: center;
+    padding-right:20px;
+    color:lightgrey;
+    font-size:15px;
+}
+.mercedes-style{
+    color:lightgrey;
+    padding-right:20px;
+    padding-left:10px;
+    font-size:15px;
+    margin-left:10px;
+    
+}
+.tower-icon{
+    height:136px;
+    position:relative;
+    margin-left:40px;
+    margin-top:18px;
+}
+.tower-icon2{
+    height:136px;
+    position:relative;
+    margin-left:40px;
+    margin-top:18px;
+}
+.property-icon{
+    position:absolute;
+    height:170px;
+    padding-top:130px;
+    padding-left:155px;
+}
